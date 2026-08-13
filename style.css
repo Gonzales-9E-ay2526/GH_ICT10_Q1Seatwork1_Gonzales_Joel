@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/98ef3f9b-2267-4403-9e97-902a4afde54c/OBMC+Quadrangle+1.jpg);
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#result {
+    background-color: aqua;
+    border: 3px solid;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 1000px;
+    margin: 20px auto; 
+    text-align: center;
+}
